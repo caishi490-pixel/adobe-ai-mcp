@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg version="1.1" id="&#x56FE;&#x5C42;_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1200 750" style="enable-background:new 0 0 1200 750;" xml:space="preserve">
+<font horiz-adv-x="256">
+<!-- Trademark of ZHONGYI Electronic Co., Beijing -->
+<!-- Copyright: Copyright 2026 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="AdobeSongStd-Light-GBpc-EUC-H" units-per-em="256" underline-position="-22" underline-thickness="12"/>
+<missing-glyph horiz-adv-x="256"/>
+<glyph unicode=" " horiz-adv-x="128"/>
+<glyph unicode="." horiz-adv-x="128" d="M32,1C28,1 25,2 22,5C19,8 17,11 17,16C17,21 19,24 22,27C25,30 28,31 32,31C36,31 40,30 43,27C46,24 47,20 47,16C47,11 46,8 43,5C40,2 36,1 32,1z"/>
+<glyph unicode="0" horiz-adv-x="128" d="M64,169C55,169 47,162 41,148C34,133 31,114 31,90C31,65 34,45 41,31C47,17 55,10 64,10C74,10 82,17 88,31C93,45 96,65 96,90C96,114 93,133 88,148C83,162 75,169 64,169M64,2C49,2 37,10 27,25C17,40 12,62 12,90C12,116 17,137 27,153C36,169 49,177 64,177C79,177 91,169 101,154C110,139 115,117 115,90C115,63 110,41 101,26C91,10 79,2 64,2z"/>
+<glyph unicode="1" horiz-adv-x="128" d="M73,178l0,-152C73,21 75,17 78,14C81,11 86,10 92,10l10,0l0,-6l-73,0l0,6l9,0C45,10 50,11 53,14C56,17 57,21 57,26l0,121C57,150 56,152 55,154C53,155 50,156 47,156l-18,0l0,6l9,0C46,162 53,163 58,166C63,169 66,173 69,178z"/>
+<glyph unicode="2" horiz-adv-x="128" d="M93,133C93,145 90,154 85,161C80,167 72,170 61,170C53,170 46,168 41,164C35,159 32,154 32,147C32,143 33,140 36,137C38,134 39,132 39,129C39,126 38,123 37,122C35,120 32,119 29,119C25,119 22,120 20,123C17,125 16,129 16,134C16,148 21,159 31,166C41,173 52,177 63,177C79,177 91,173 99,165C106,157 110,147 110,135C110,127 108,119 105,111C101,103 95,95 87,88C68,69 53,54 43,43C32,31 26,23 24,19l59,0C89,19 94,21 98,26C102,31 105,38 106,47l6,0l-6,-43l-93,0l0,13C16,23 22,31 30,40C37,49 47,60 60,73C71,84 80,95 85,105C90,115 93,124 93,133z"/>
+<glyph unicode="6" horiz-adv-x="128" d="M31,72C31,52 35,37 42,26C49,15 57,9 67,9C77,9 85,13 90,20C95,27 98,41 98,61C98,74 95,85 90,92C84,99 77,103 69,103C62,103 55,101 49,97C42,92 36,84 31,72M70,113C86,113 98,108 105,97C112,86 115,74 115,61C115,41 110,26 101,17C91,7 80,2 67,2C49,2 35,9 26,23C17,36 12,56 12,82C12,113 18,136 29,153C40,169 56,177 75,177C84,177 92,174 98,169C103,164 106,159 106,155C106,151 105,148 104,146C102,144 99,143 95,143C92,143 89,144 88,146C86,147 85,150 85,153C85,154 85,156 86,157C86,158 86,160 86,161C86,164 85,166 83,168C81,169 77,170 72,170C61,170 51,165 43,155C35,144 31,122 31,87C35,96 41,102 48,107C55,111 62,113 70,113z"/>
+<glyph unicode="A" horiz-adv-x="128" d="M81,68l-45,0l-9,-38C26,27 26,24 26,22C26,19 27,17 28,14C29,11 31,10 36,10l3,0l0,-6l-37,0l0,6l3,0C8,10 10,11 12,13C14,14 15,17 16,21l39,153l15,5l38,-158C109,17 111,14 113,13C115,11 117,10 120,10l3,0l0,-6l-43,0l0,6l4,0C88,10 90,11 91,13C92,14 92,16 92,17C92,20 92,22 91,24M60,157l-1,0l-21,-83l42,0z"/>
+<glyph unicode="I" horiz-adv-x="128" d="M24,169l0,6l80,0l0,-6l-23,0C78,169 76,168 75,167C73,166 72,164 72,161l0,-143C72,15 73,13 75,12C76,11 78,10 81,10l23,0l0,-6l-80,0l0,6l23,0C50,10 53,11 54,12C55,13 56,15 56,18l0,143C56,164 55,166 54,167C53,168 50,169 47,169z"/>
+<glyph unicode="M" horiz-adv-x="128" d="M112,18C112,15 113,13 115,12C116,11 118,10 121,10l4,0l0,-6l-43,0l0,6l5,0C90,10 93,11 94,12C95,13 96,15 96,18l0,131l-2,0l-34,-145l-6,0l-31,142l-2,0l0,-128C21,15 22,13 24,12C25,11 27,10 30,10l3,0l0,-6l-30,0l0,6l3,0C9,10 12,11 13,12C14,13 15,15 15,18l0,143C15,164 14,166 13,167C12,168 9,169 6,169l-4,0l0,6l29,0l29,-134l2,0l31,134l32,0l0,-6l-4,0C118,169 116,168 115,167C113,166 112,164 112,161z"/>
+<glyph unicode="&#xB7;" horiz-adv-x="256" d="M128,122C133,122 139,120 147,116C154,111 158,103 157,92C156,80 153,72 146,69C139,66 133,64 128,64C122,64 116,66 109,69C102,72 98,80 98,92C98,104 102,112 110,116C117,120 123,122 128,122z"/>
+</font>
+
+	<rect id="bg" style="fill:#F7EAD7;" width="1200" height="750"/>
+<rect id="sky_x5F_0" style="fill:#FAF1E4;" width="1200" height="130"/>
+<rect id="sky_x5F_1" y="130" style="fill:#F9EAD7;" width="1200" height="130"/>
+<rect id="sky_x5F_2" y="260" style="fill:#F8E2C8;" width="1200" height="130"/>
+<rect id="sky_x5F_3" y="390" style="fill:#F7DAB9;" width="1200" height="130"/>
+<rect id="sky_x5F_4" y="520" style="fill:#F6D2AB;" width="1200" height="120"/>
+<rect id="sky_x5F_5" y="640" style="fill:#F5CA9E;" width="1200" height="110"/>
+<circle id="ring1" style="opacity:0.6;fill:none;stroke:#E2603F;stroke-width:3;stroke-miterlimit:10;" cx="600" cy="430" r="283"/>
+<circle id="ring2" style="opacity:0.28;fill:none;stroke:#E2603F;stroke-width:2;stroke-miterlimit:10;" cx="600" cy="430" r="312"/>
+<circle id="sun" style="fill:#E2603F;" cx="600" cy="430" r="250"/>
+<rect id="sun_x5F_stripe_x5F_0" x="469.3" y="217.5" style="fill:#F9EAD7;" width="261.39" height="5"/>
+<rect id="sun_x5F_stripe_x5F_1" x="430.14" y="247.5" style="fill:#F9EAD7;" width="339.72" height="5"/>
+<rect id="sun_x5F_stripe_x5F_2" x="402.9" y="277.5" style="fill:#F8E2C8;" width="394.2" height="5"/>
+<rect id="sun_x5F_stripe_x5F_3" x="383.07" y="307.5" style="fill:#F8E2C8;" width="433.86" height="5"/>
+<rect id="sun_x5F_stripe_x5F_4" x="368.74" y="337.5" style="fill:#F8E2C8;" width="462.52" height="5"/>
+<rect id="sun_x5F_stripe_x5F_5" x="358.94" y="367.5" style="fill:#F8E2C8;" width="482.12" height="5"/>
+<rect id="sun_x5F_stripe_x5F_6" x="353.12" y="397.5" style="fill:#F7DAB9;" width="493.76" height="5"/>
+<rect id="sun_x5F_stripe_x5F_7" x="351.01" y="427.5" style="fill:#F7DAB9;" width="497.97" height="5"/>
+<rect id="sun_x5F_stripe_x5F_8" x="353.12" y="457.5" style="fill:#F7DAB9;" width="493.76" height="5"/>
+<rect id="sun_x5F_stripe_x5F_9" x="358.94" y="487.5" style="fill:#F7DAB9;" width="482.12" height="5"/>
+<rect id="sun_x5F_stripe_x5F_10" x="368.74" y="517.5" style="fill:#F6D2AB;" width="462.52" height="5"/>
+<rect id="sun_x5F_stripe_x5F_11" x="383.07" y="547.5" style="fill:#F6D2AB;" width="433.86" height="5"/>
+<rect id="sun_x5F_stripe_x5F_12" x="402.9" y="577.5" style="fill:#F6D2AB;" width="394.2" height="5"/>
+<rect id="sun_x5F_stripe_x5F_13" x="430.14" y="607.5" style="fill:#F6D2AB;" width="339.72" height="5"/>
+<rect id="sun_x5F_stripe_x5F_14" x="469.3" y="637.5" style="fill:#F5CA9E;" width="261.39" height="5"/>
+<path id="bird1" style="fill:none;stroke:#3A2450;stroke-width:4.5;stroke-miterlimit:10;" d="M400,302c6.667-10,13.667-11.333,21-4
+	c7.333-7.333,14.333-6,21,4"/>
+<path id="bird2" style="fill:none;stroke:#3A2450;stroke-width:4;stroke-miterlimit:10;" d="M466,337c6-8,12.333-9,19-3
+	c6.667-6,13-5,19,3"/>
+<path id="bird3" style="fill:none;stroke:#3A2450;stroke-width:3.5;stroke-miterlimit:10;" d="M528,287c5.333-6.667,11-7.333,17-2
+	c5.333-5.333,10.667-4.667,16,2"/>
+<path id="ridge_x5F_far" style="fill:#8E6193;" d="M0,620c110-60,210-68,330-20c90,36,160-30,270-40c100-9,170,50,270,40
+	c90-9,170-55,250-30c40,13,65,22,80,20v160H0V620z"/>
+<path id="ridge_x5F_near" style="fill:#5A3B72;" d="M0,690c80-50,160-75,260-50c90,22,140-18,220-10s120,60,210,45
+	c80-13,140-57,230-43c80,13,140,48,210,40c40-5,60-4,70-2v80H0V690z"/>
+<rect id="water" y="702" style="fill:#241535;" width="1200" height="48"/>
+<path id="glint1" style="opacity:0.6;fill:#F0985A;" d="M410,713v-1c0-2.2,1.8-4,4-4h372c2.2,0,4,1.8,4,4v1c0,2.2-1.8,4-4,4H414
+	C411.8,717,410,715.2,410,713z"/>
+<path id="glint2" style="opacity:0.5;fill:#F6BE76;" d="M470,726L470,726c0-2.2,1.8-4,4-4h252c2.2,0,4,1.8,4,4l0,0c0,2.2-1.8,4-4,4
+	H474C471.8,730,470,728.2,470,726z"/>
+<path id="glint3" style="opacity:0.45;fill:#FAD98F;" d="M528,739v-1c0-1.65,1.35-3,3-3h138c1.65,0,3,1.35,3,3v1c0,1.65-1.35,3-3,3
+	H531C529.35,742,528,740.65,528,739z"/>
+<text id="sig" transform="matrix(1 0 0 1 64 725.3604)" style="opacity:0.9;fill:#F3E3CB; font-family:'AdobeSongStd-Light-GBpc-EUC-H'; font-size:22px;">AMI &#xB7; 2026.10</text>
+</svg>
